@@ -1,0 +1,14 @@
+[
+  { "id": 1, "name": "Alex Fern", "niche": "Fitness", "platform": "Instagram", "followers": 42000, "rate": 250, "avatar": "../../TailwindExercises/img/author_fern.jpeg" },
+  { "id": 2, "name": "Maya Green", "niche": "Beauty", "platform": "TikTok", "followers": 58000, "rate": 180, "avatar": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=300&q=60" },
+  { "id": 3, "name": "Tech Tom", "niche": "Tech", "platform": "YouTube", "followers": 112000, "rate": 420, "avatar": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=300&q=60" },
+  { "id": 4, "name": "Lila Sun", "niche": "Lifestyle", "platform": "Instagram", "followers": 35000, "rate": 210, "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=300&q=60" },
+  { "id": 5, "name": "Gamer Zee", "niche": "Gaming", "platform": "YouTube", "followers": 89000, "rate": 360, "avatar": "https://images.unsplash.com/photo-1511512578047-dfb367046420?auto=format&fit=crop&w=300&q=60" },
+  { "id": 6, "name": "Chef Karan", "niche": "Food", "platform": "Instagram", "followers": 27000, "rate": 170, "avatar": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=300&q=60" },
+  { "id": 7, "name": "Sara Sparks", "niche": "Tech", "platform": "Twitter", "followers": 22000, "rate": 130, "avatar": "https://images.unsplash.com/photo-1544005316-352bba31d39b?auto=format&fit=crop&w=300&q=60" },
+  { "id": 8, "name": "Ravi Fit", "niche": "Fitness", "platform": "TikTok", "followers": 46000, "rate": 200, "avatar": "https://images.unsplash.com/photo-1517821362830-9bdc2f9556fd?auto=format&fit=crop&w=300&q=60" },
+  { "id": 9, "name": "Nora Glow", "niche": "Beauty", "platform": "Instagram", "followers": 64000, "rate": 260, "avatar": "https://images.unsplash.com/photo-1520974735194-85bdf15b8f56?auto=format&fit=crop&w=300&q=60" },
+  { "id": 10, "name": "Leo Streams", "niche": "Gaming", "platform": "TikTok", "followers": 31000, "rate": 190, "avatar": "https://images.unsplash.com/photo-1519677100203-a0e668c92439?auto=format&fit=crop&w=300&q=60" },
+  { "id": 11, "name": "Priya Style", "niche": "Lifestyle", "platform": "YouTube", "followers": 73000, "rate": 340, "avatar": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?auto=format&fit=crop&w=300&q=60" },
+  { "id": 12, "name": "Arjun Bytes", "niche": "Tech", "platform": "Instagram", "followers": 25000, "rate": 160, "avatar": "https://images.unsplash.com/photo-1532074205216-d0e1f4b87300?auto=format&fit=crop&w=300&q=60" }
+]
